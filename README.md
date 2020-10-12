@@ -1,4 +1,9 @@
-# calendar-dom2
+# calendar-dom
+## 项目说明
+```
+vue 里面引入日历组件并自定义样式
+github 地址 https://github.com/zwhGithub/vue-calendar
+```
 
 ## Project setup
 ```
