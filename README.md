@@ -9,7 +9,7 @@ github 地址 https://github.com/zwhGithub/vue-calendar
 ```
 npm install
 ```
-
+水电费
 ### Compiles and hot-reloads for development
 ```
 npm run serve
